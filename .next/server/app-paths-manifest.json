@@ -1,0 +1,7 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/create-thread/page": "app/(root)/create-thread/page.js",
+  "/(root)/thread/[id]/page": "app/(root)/thread/[id]/page.js",
+  "/(root)/profile/[id]/page": "app/(root)/profile/[id]/page.js",
+  "/(root)/profile/edit/page": "app/(root)/profile/edit/page.js"
+}
